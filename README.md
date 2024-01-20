@@ -27,8 +27,8 @@ If you want to know more about me, visite my website <a href="https://brandon-al
 
 ## Github Analitycs
 <p align="center">
-<a href="https://github.com/Brandon-github">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brandon-alexis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brandon-alexis&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Brandon-alexis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brandon-alexis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brandon-alexis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
