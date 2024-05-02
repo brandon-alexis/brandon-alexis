@@ -18,10 +18,10 @@ If you want to know more about me, visite my website <a href="https://brandon-al
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,sass)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,typescript,nodejs,express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=astro,react,mysql,mongodb,docker,git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,python,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,figma)](https://skillicons.dev)
 
 ## Things I want learning to future
-[![My Skills](https://skillicons.dev/icons?i=angular,jest,postgres,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular,jest,postgres,next,python)](https://skillicons.dev)
 
 
 
