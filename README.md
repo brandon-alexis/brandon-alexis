@@ -21,7 +21,7 @@ If you want to know more about me, visite my website <a href="https://brandon-al
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,figma)](https://skillicons.dev)
 
 ## Things I want learning to future
-[![My Skills](https://skillicons.dev/icons?i=java,angular,jest,postgres,next,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular,jest,postgres)](https://skillicons.dev)
 
 
 
