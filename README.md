@@ -1,10 +1,11 @@
 
-<img  src="https://github.com/brandon-alexis/brandon-alexis/assets/157251912/6f07bdff-2378-41b5-89ac-c0d217e0dbcc" />
+<img  src="https://github.com/user-attachments/assets/8458399d-0109-4e04-b67d-a7c9c8fd9138" />
 
 
 ## About me   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50">.
 
 <p>
+  
 Hi, I'm a appasionate web developer who likes to learn constantly and being actualied about new technologies, creating projects and doing use of them with the objective to show my knowledges and improving my domain in the technologies.
 
 I specialize in frontend development but I also have knowledges in backend development and databases, my goal is being to able to build web application which be scaleble, maintainable and with a long life cicle, every this together with good practices, team work and improving everyday like developer.
