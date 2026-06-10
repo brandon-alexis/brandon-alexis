@@ -1,19 +1,19 @@
 
-<img  src="https://github.com/user-attachments/assets/8458399d-0109-4e04-b67d-a7c9c8fd9138" />
+<img  alt="Github-Header-Image" src="https://github.com/user-attachments/assets/c47b7981-24e2-44c3-9467-49bba144ea1f" />
 
 
-## About me <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50">.
+
+## Sobre mi <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50">.
 
 
 <p style="margin-bottom: 2rem">
-  Soy desarrollador web especializado en el frontend construyendo sitios y aplicaciones web con una apariencia e interactividad agradables para el usuario. Ademas de su adaptacion y rendimiento de todos los dispositivos. 
-Actualmente cuento con bases solidad y experiencia manejando las siguientes tecnologias para la construccion de sitios y/o aplicaciones.
+Desarrollador Web enfocado en la creación de aplicaciones modernas y funcionales. Experiencia en Frontend desarrollando interfaces responsivas, accesibles y centradas en la experiencia del usuario, así como conocimientos en Backend para el diseño de APIs, integración de servicios y gestión de bases de datos.
 </p>
+
+<h2>Tecnologias</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,sass,tailwindcss,react,astro,git,docker,figma,linux)](https://skillicons.dev)
 
-<p style="margin-bottom: 2rem"> 
-  Cuento tambien con conocimientos y experiencia en el manejo del entorno del backend y sus tecnologias para la construccion para la parte logica de negocio de una aplicacion, haciendo uso de las siguientes tecnologias.
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,typescript,mysql,mongodb)](https://skillicons.dev)
 
@@ -21,7 +21,6 @@ Actualmente cuento con bases solidad y experiencia manejando las siguientes tecn
   <a href="https://brandon-alexis.vercel.app/" target="_blank">
     aqui
     </a>
-</p>
 
 <p align="center">
 <a href="https://github.com/Brandon-alexis">
